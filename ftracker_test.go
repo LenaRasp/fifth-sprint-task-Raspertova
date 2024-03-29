@@ -171,4 +171,3 @@ func TestShowTrainingInfo(t *testing.T) {
 		})
 	}
 }
-test first commit
